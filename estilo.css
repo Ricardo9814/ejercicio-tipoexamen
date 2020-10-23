@@ -1,0 +1,40 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+margin-left: 250px;
+}
+header nav ul li{
+display: inline-block;
+padding: 10px;
+}
+header{
+    align-items: center;
+}
+.libro{
+    width: 90%;
+    height: 90%;
+}
+
+.secc1, .book{
+ width: 45%;
+} 
+section div{
+     display: inline-block;
+   vertical-align: top;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+footer .imagenes{
+    align-items: center;
+}
+.u-linea{
+    background: #f0be3f;
+    color: white;
+    border-radius: 2px;
+}
